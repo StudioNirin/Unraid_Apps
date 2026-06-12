@@ -10,8 +10,8 @@
 
   <!-- NOTE: The port in the entry ALWAYS refers to the container port, not the host port-->
   <WebUI>http://[IP]:[PORT:30000]</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/StudioNirin/Foundry-VTT-Unraid/main/templates/foundry-vtt-unraid.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/StudioNirin/Foundry-VTT-Unraid/main/icon.png</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/StudioNirin/Unraid_Apps/main/templates/foundry-vtt-unraid.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/StudioNirin/Unraid_Apps/main/foundry.png</Icon>
 
   <!-- Plain text description -->
   <Overview>A secure, reliable, compact, and simple-to-use container for the Foundry Virtual Tabletop using felddy's Dockerhub images.
