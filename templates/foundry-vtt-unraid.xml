@@ -25,14 +25,14 @@ Example: 9 - Use most recent 9.x.x version; 9.255 - use most recent 9.255.x vers
 
   <!-- NOTE: Either Support or Project is REQUIRED -->
   <!-- Project page -->
-  <Project>https://github.com/StudioNirin/Foundry-VTT-Unraid/issues</Project>
+  <Project>https://github.com/StudioNirin/Unraid_Apps/issues</Project>
 
   <!-- Readme first file -->
-  <ReadMe>https://github.com/StudioNirin/Foundry-VTT-Unraid/blob/main/README.md</ReadMe>
+  <ReadMe>https://github.com/StudioNirin/Unraid_Apps/blob/main/README.md</ReadMe>
 
   <!-- Support and donation links -->
   <DonateText>Support Development</DonateText>
-  <DonateLink>https://github.com/sponsors/StudioNirin</DonateLink>
+  <DonateLink>buymeacoffee.com/studionirin</DonateLink>
 
   <!-- Valid category entries can be generated from the Application Categorizer plugin available in Apps -->
   <Category>Tools:System</Category>
