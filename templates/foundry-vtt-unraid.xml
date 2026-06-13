@@ -21,7 +21,9 @@ You can get a Foundry Virtual Tabletop instance up and running in minutes using 
 This Docker container is designed to be secure, reliable, compact, and simple to use. 
 It only requires that you provide the credentials or URL needed to download a Foundry Virtual Tabletop distribution.
 
-Example: 9 - Use most recent 9.x.x version; 9.255 - use most recent 9.255.x version; 9.255.0 - use exact version.</Overview>
+Example: 9 - Use most recent 9.x.x version; 9.255 - use most recent 9.255.x version; 9.255.0 - use exact version.
+  
+  ExtraParameters should be  --user 99:100   in order to fix permissions issues. </Overview>
 
   <!-- NOTE: Either Support or Project is REQUIRED -->
   <!-- Project page -->
