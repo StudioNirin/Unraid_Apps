@@ -5,6 +5,7 @@
   <Registry>https://github.com/StudioNirin/Foundry-VTT-Unraid</Registry>
   <Network>bridge</Network>
   <MyIP/>
+  <ExtraParams>--restart=unless-stopped --user=99:100</ExtraParams>
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
 
@@ -35,9 +36,6 @@ ExtraParameters should be  --user 99:100   in order to fix permissions issues. <
   <!-- Support and donation links -->
   <DonateText>Support Development</DonateText>
   <DonateLink>buymeacoffee.com/studionirin</DonateLink>
-
-  <!-- Extra Parameters -->
-  <ExtraParams>--user 99:100</ExtraParams>
 
   <!-- Valid category entries can be generated from the Application Categorizer plugin available in Apps -->
   <Category>Tools:System</Category>
