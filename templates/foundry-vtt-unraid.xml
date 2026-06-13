@@ -23,7 +23,7 @@ It only requires that you provide the credentials or URL needed to download a Fo
 
 Example: 9 - Use most recent 9.x.x version; 9.255 - use most recent 9.255.x version; 9.255.0 - use exact version.
   
-  ExtraParameters should be  --user 99:100   in order to fix permissions issues. </Overview>
+ExtraParameters should be  --user 99:100   in order to fix permissions issues. </Overview>
 
   <!-- NOTE: Either Support or Project is REQUIRED -->
   <!-- Project page -->
