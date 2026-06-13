@@ -38,7 +38,7 @@ ExtraParameters should be  --user 99:100   in order to fix permissions issues. <
   <DonateLink>buymeacoffee.com/studionirin</DonateLink>
 
   <!-- Valid category entries can be generated from the Application Categorizer plugin available in Apps -->
-  <Category>Tools:System</Category>
+  <Category>Game Servers</Category>
 
   <!-- If this container is beta container, set Beta to true-->
   <Beta>true</Beta>
