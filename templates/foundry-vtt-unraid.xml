@@ -34,6 +34,9 @@ Example: 9 - Use most recent 9.x.x version; 9.255 - use most recent 9.255.x vers
   <DonateText>Support Development</DonateText>
   <DonateLink>buymeacoffee.com/studionirin</DonateLink>
 
+  <!-- Extra Parameters -->
+  <ExtraParams>--user 99:100</ExtraParams>
+
   <!-- Valid category entries can be generated from the Application Categorizer plugin available in Apps -->
   <Category>Tools:System</Category>
 
